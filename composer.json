@@ -1,0 +1,8 @@
+{
+    "name": "audit/naveed",
+    "description": "This is my first package",
+    "type": "Laravel",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
