@@ -3,6 +3,6 @@
     "description": "This is my first package",
     "type": "Laravel",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
