@@ -1,5 +1,5 @@
 {
-    "name": "audit/naveed",
+    "name": "demopackage/naveed",
     "description": "This is my first package",
     "type": "Laravel",
     "license": "MIT",
